@@ -1,0 +1,31 @@
+@media all and (min-width: 480px) {
+	.SignUp {
+		padding: 60px 0;
+	}
+
+	.SignUp form {
+		margin: 0 auto;
+		max-width: 320px;
+	}
+
+	.Login {
+		padding: 60px 0;
+	}
+
+	.Login form {
+		margin: 0 auto;
+		max-width: 320px;
+	}
+}
+
+.log-title {
+	text-align: center;
+}
+
+.sign-title {
+	text-align: center;
+}
+
+.red {
+	color: red;
+}

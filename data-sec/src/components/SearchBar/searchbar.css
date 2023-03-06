@@ -1,0 +1,26 @@
+@media all and (min-width: 480px) {
+  .SearchBar {
+    max-width: 320px;
+  }
+
+  .SearchBar form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .bar {
+    display: inline-block;
+  }
+
+  .searchbar-container {
+    max-width: 320px;
+    display: inline-block;
+  }
+}
+
+.search-button, .search-button:focus, .search-button:active {
+	box-shadow: none;
+	transition: none;
+	scale: 0.9;
+	margin: 5px;
+}
